@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71d8b09f-1e9b-4bd1-956d-c94dfbe7f74e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/cn/iqcard/graphPractice/Components.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/iqcard/graphPractice/Path.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/cn/iqcard/graphPractice/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/cn/iqcard/graphPractice/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/iqcard/graphPractice/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/iqcard/graphPractice/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cn/iqcard/graphPractice/ReadGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/iqcard/graphPractice/ReadGraph.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -24,28 +30,28 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="1" />
-          <entry key="java" value="4159" />
+          <entry key="java" value="6130" />
           <entry key="txt" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4159" />
+          <entry key="JAVA" value="6130" />
           <entry key="PLAIN_TEXT" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="7" />
-          <entry key="txt" value="7" />
+          <entry key="java" value="9" />
+          <entry key="txt" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="7" />
-          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="JAVA" value="9" />
+          <entry key="PLAIN_TEXT" value="10" />
         </counts>
       </usages-collector>
     </session>
@@ -55,8 +61,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cn/iqcard/graphPractice/DenseGraph.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="5" column="40" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="40" />
+            <state relative-caret-position="144">
+              <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -64,7 +70,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cn/iqcard/graphPractice/SparseGraph.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
+            <state relative-caret-position="-344">
               <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -73,11 +79,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cn/iqcard/graphPractice/ReadGraph.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="39" column="136" selection-start-line="39" selection-start-column="136" selection-end-line="39" selection-end-column="136" />
+            <state relative-caret-position="392">
+              <caret line="53" column="78" selection-start-line="53" selection-start-column="78" selection-end-line="53" selection-end-column="78" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -97,11 +103,47 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cn/iqcard/graphPractice/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+            <state relative-caret-position="144">
+              <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/iqcard/graphPractice/Components.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="26" column="25" lean-forward="true" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#830#831#0" expanded="true" />
+                <element signature="e#864#865#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/cn/iqcard/graphPractice/Path.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#859#860#0" expanded="true" />
+                <element signature="e#892#893#0" expanded="true" />
+                <element signature="e#788#797#0" expanded="true" />
+                <element signature="e#916#925#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/iqcard/graphPractice/testG2.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -116,6 +158,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>showPath</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -125,7 +172,6 @@
         <option value="$PROJECT_DIR$/src/cn/iqcard/algorithm/Main.java" />
         <option value="$PROJECT_DIR$/src/cn/iqcard/graphPractice/main.java" />
         <option value="$PROJECT_DIR$/src/cn/iqcard/graphPractice/sparseGraph.java" />
-        <option value="$PROJECT_DIR$/src/cn/iqcard/graphPractice/Main.java" />
         <option value="$PROJECT_DIR$/assets/testG1.txt" />
         <option value="$PROJECT_DIR$/assets/testG2.txt" />
         <option value="$PROJECT_DIR$/src/cn/iqcard/graphPractice/Graph.java" />
@@ -133,6 +179,9 @@
         <option value="$PROJECT_DIR$/src/cn/iqcard/graphPractice/SparseGraph.java" />
         <option value="$PROJECT_DIR$/src/cn/iqcard/graphPractice/config.txt" />
         <option value="$PROJECT_DIR$/src/cn/iqcard/graphPractice/ReadGraph.java" />
+        <option value="$PROJECT_DIR$/src/cn/iqcard/graphPractice/Components.java" />
+        <option value="$PROJECT_DIR$/src/cn/iqcard/graphPractice/Main.java" />
+        <option value="$PROJECT_DIR$/src/cn/iqcard/graphPractice/Path.java" />
       </list>
     </option>
   </component>
@@ -175,6 +224,24 @@
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="iqcard" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="iqcard" type="462c0819:PsiDirectoryNode" />
+              <item name="graphPractice" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -185,10 +252,13 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/java_space/algorithm/src/cn/iqcard/graphPractice/Main.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533723097346" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533808989242" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -249,18 +319,18 @@
       <option name="presentableId" value="Default" />
       <updated>1533691106287</updated>
       <workItem from="1533691110496" duration="18708000" />
-      <workItem from="1533776768863" duration="991000" />
+      <workItem from="1533776768863" duration="15786000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19699000" />
+    <option name="totallyTimeSpent" value="34494000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13467048" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18553008" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -269,7 +339,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6368195" weight="0.24596775" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.63610315" visible="true" weight="0.22476447" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -277,7 +347,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.36318052" side_tool="true" visible="true" weight="0.24629879" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.36389685" side_tool="true" visible="true" weight="0.22476447" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49713466" weight="0.3293011" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -339,26 +409,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/iqcard/graphPractice/testG2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/iqcard/graphPractice/testG1.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/iqcard/graphPractice/testG2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/iqcard/graphPractice/DenseGraph.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" column="40" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="40" />
+        <state relative-caret-position="144">
+          <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/iqcard/graphPractice/SparseGraph.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
+        <state relative-caret-position="-344">
           <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -366,10 +436,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/iqcard/graphPractice/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/iqcard/graphPractice/ReadGraph.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+        <state relative-caret-position="392">
+          <caret line="53" column="78" selection-start-line="53" selection-start-column="78" selection-end-line="53" selection-end-column="78" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -383,12 +453,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/iqcard/graphPractice/ReadGraph.java">
+    <entry file="file://$PROJECT_DIR$/src/cn/iqcard/graphPractice/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="39" column="136" selection-start-line="39" selection-start-column="136" selection-end-line="39" selection-end-column="136" />
+        <state relative-caret-position="144">
+          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/iqcard/graphPractice/Components.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="26" column="25" lean-forward="true" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#830#831#0" expanded="true" />
+            <element signature="e#864#865#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/iqcard/graphPractice/Path.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#859#860#0" expanded="true" />
+            <element signature="e#892#893#0" expanded="true" />
+            <element signature="e#788#797#0" expanded="true" />
+            <element signature="e#916#925#0" expanded="true" />
           </folding>
         </state>
       </provider>
