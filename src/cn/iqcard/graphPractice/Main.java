@@ -8,7 +8,9 @@ public class Main {
         Components dg_c=new Components(dg);
         Path dg_p=new Path(dg,0);
         dg.show();
-        dg_p.showPath(3);
+        dg_p.showPath(4);
+        ShortestPath dg_sp=new ShortestPath(dg,0);
+        dg_sp.showPath(3);
         System.out.println("连通分量是"+dg_c.getCcount());
         System.out.println("");
         System.out.println("SparseGraph 1");

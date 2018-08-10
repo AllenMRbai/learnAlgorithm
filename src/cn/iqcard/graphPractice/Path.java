@@ -11,12 +11,12 @@ public class Path {
     private Graph G;
 
     private void dfs(int v){
-        if(!visited[v]){
-            visited[v]=true;
-            Vector<Integer> adjV=G.adj(v);
-            Iterator<Integer> it=adjV.iterator();
-            while (it.hasNext()){
-                int i=it.next();
+        visited[v]=true;
+        Vector<Integer> adjV=G.adj(v);
+        Iterator<Integer> it=adjV.iterator();
+        while (it.hasNext()){
+            int i=it.next();
+            if(!visited[i]){
                 from[i]=v;
                 dfs(i);
             }
@@ -26,6 +26,7 @@ public class Path {
     public Path(Graph g,int s){
         this.visited=new boolean[g.V()];
         this.from=new int[g.V()];
+        assert s>=0 && s< g.V();
         this.s=s;
         this.G=g;
 
@@ -41,6 +42,7 @@ public class Path {
     }
 
     public Vector<Integer> getPath(int w){
+        assert hasPath(w);
         Stack<Integer> st=new Stack<Integer>();
         while(w>=0){
             st.push(w);
@@ -56,15 +58,15 @@ public class Path {
     }
 
     public void showPath(int w){
-        System.out.println("打印路径 ");
-        System.out.println("打印from");
-        for(int i=0;i<from.length;i++){
-            System.out.print(from[i]);
-        }
+
+        assert hasPath(w);
+
         Vector<Integer> vt=getPath(w);
+        System.out.println("从"+s+"到"+w+"的路径");
         for (int i : vt){
             System.out.print(i+"\t");
         }
+        System.out.println();
     }
 
 }
