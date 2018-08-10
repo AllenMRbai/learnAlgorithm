@@ -4,17 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/cn/iqcard/graphPractice/ShortestPath.java" line="64" mnemonic="1" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71d8b09f-1e9b-4bd1-956d-c94dfbe7f74e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cn/iqcard/graphPractice/MyUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/iqcard/graphPractice/ShortestPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/iqcard/graphPractice/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/iqcard/graphPractice/testG.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/cn/iqcard/graphPractice/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/cn/iqcard/graphPractice/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/cn/iqcard/graphPractice/Path.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/cn/iqcard/graphPractice/Path.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/iqcard/graphPractice/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/iqcard/graphPractice/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cn/iqcard/graphPractice/Path.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/iqcard/graphPractice/Path.java" afterDir="false" />
-    </list>
+    <list default="true" id="71d8b09f-1e9b-4bd1-956d-c94dfbe7f74e" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +16,7 @@
     <session id="2093405163">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.134" value="1" />
           <entry key="project.open.time.141" value="1" />
           <entry key="project.open.time.3" value="1" />
@@ -222,7 +212,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="20" />
     <option name="y" value="20" />
     <option name="width" value="1400" />
@@ -369,8 +359,7 @@
     <option name="totallyTimeSpent" value="46503000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="876" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19412607" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
